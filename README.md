@@ -1,0 +1,2 @@
+# thynk.
+Softwere Business Intelligence
