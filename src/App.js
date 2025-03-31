@@ -23,3 +23,17 @@ function App() {
 }
 
 export default App;
+
+import React from 'react';
+import PenjualanDashboard from './components/PenjualanDashboard';
+
+function App() {
+  return (
+    <div className="App">
+      <PenjualanDashboard />
+      {/* Komponen-komponen lain */}
+    </div>
+  );
+}
+
+export default App;
